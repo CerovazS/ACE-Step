@@ -1,4 +1,4 @@
-datasets==3.4.1
+datasets>=3.4.1
 diffusers>=0.33.0
 gradio
 librosa==0.11.0
