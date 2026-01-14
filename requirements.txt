@@ -1,15 +1,1 @@
-datasets>=3.4.1
-diffusers>=0.33.0
-numpy
-transformers>=4.38
-py3langid>=0.3.0
-hangul-romanize>=0.1.0
-num2words>=0.5.14
-spacy>=3.8.4
-accelerate>=1.6.0
-cutlet
-fugashi[unidic-lite]
-click
-peft
-tensorboard
-tensorboardX
+
